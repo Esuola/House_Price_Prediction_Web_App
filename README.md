@@ -1,6 +1,6 @@
 ## Housepricing Prediction ML Model
 
-## Softwae tools and Requirements
+### Software tools and Requirements
 
 1. [GithubAccount]
 2. [HerokuAccount]
